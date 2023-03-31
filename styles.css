@@ -1,0 +1,18 @@
+.title {
+    color: yellow;
+}
+
+.links {
+    font-size: x-large;
+    background-color: azure;
+    color: aquamarine;
+}
+
+#para {
+    color: red;
+}
+
+.ingredients {
+    background-color: aqua;
+    font-family: Helvetica, "Times New Roman" sans-serif;
+}
